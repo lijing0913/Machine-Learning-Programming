@@ -1,7 +1,7 @@
 # ML-Implementaion
 Machine Learning Algorithms Implementation
 
-# Test
-## Test
-### Test
-`code`
+### Linear Regression
+### Logistic Regression
+### Decision Tree
+### Data Cleaning

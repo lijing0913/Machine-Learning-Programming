@@ -2,7 +2,7 @@
 import numpy as np
 import pandas as pd
 
-# Standardize the entirre matrix as a whole
+# Standardize the entire matrix as a whole
 # A = (A - np.mean(A)) / np.std(A)
 # Standardize each column individually
 # A = (A - np.mean(A, axis=0)) / np.std(A, axis=0)

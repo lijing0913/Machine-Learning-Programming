@@ -1,10 +1,2 @@
-# ML-Implementaion
-## Machine Learning Algorithms Implementation in Python from Scratch
+## Machine Learning from Scratch in Python
 
-Linear Regression
-
-Logistic Regression
-
-Decision Tree
-
-Data Cleaning
